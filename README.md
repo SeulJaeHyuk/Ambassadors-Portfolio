@@ -1,6 +1,6 @@
 # 👨‍💻 설재혁의 학과 홍보대사 포트폴리오
 
-[나의 모바일 포트폴리오 웹 페이지 바로 가기](https://github.com/SeulJaeHyuk/Ambassadors-Portfolio/blob/main/index.html) <br>
+[나의 모바일 포트폴리오 웹 페이지 바로 가기](https://seuljaehyuk.github.io/Ambassadors-Portfolio/) <br>
 
 ## ✔️ 설명
 ㆍ본 파일들은 설재혁의 학과 홍보대사 포트폴리오이다. <br>
